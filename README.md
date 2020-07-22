@@ -92,8 +92,14 @@ cv2.destroyAllWindows() # close window based on waitKey
 
 ---
 
+### Screenshot
+
+![resultss](https://user-images.githubusercontent.com/66622418/88202712-f1d66b80-cc51-11ea-9cce-ccae3c7d9dfa.png)
+
 
 ## citation and references :
 * [the original code](https://www.youtube.com/watch?v=-Zgm3JWkM6A)
 * [Cascade classifier haarcascade_frontalface_default.xml](https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml)
+
+
 
